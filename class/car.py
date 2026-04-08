@@ -18,3 +18,8 @@ class Car:
         else:
             print(f"I see that your {self.model} is not for sale.")
 
+
+# Object = a bundle of related attributes (variables) 
+# and methods (functions)
+# class = blueprint used to design the structure 
+# and layout of an object
